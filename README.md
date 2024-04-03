@@ -1,3 +1,3 @@
 # commit-pulls
 
-merged pull
+deleted-merged-pull
